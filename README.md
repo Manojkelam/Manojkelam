@@ -62,7 +62,7 @@ I'm a **2nd-year CSE Data Science student** at **BITM, Bellary** with a passion 
 I'm actively looking for internship opportunities and collaborations. Feel free to reach out!
 
 - **LinkedIn**: [Manoj Kelam](https://www.linkedin.com/in/manoj-kelam-06b777339?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Email**: [Add your email if you'd like]
+- **Email**: [manojkelam45@gmail.com]
 - **GitHub**: [@Manojkelam](https://github.com/Manojkelam)
 
 ---
