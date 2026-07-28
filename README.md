@@ -4,9 +4,9 @@
 
 <p>
   <a href="https://github.com/Manojkelam"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Manojkelam&color=00ffab"></a>
-  <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://your-portfolio.example.com"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="manojkelam@45gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/manoj-kelam-06b777339"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://manoj-kelam-portfolio-567297922005.asia-southeast1.run.app/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
@@ -162,19 +162,17 @@ I am eager to work on real-world projects, collaborate with experienced teams, a
 
 ## 💻 Coding Profiles
 - GitHub: https://github.com/Manojkelam  
-- LeetCode: https://leetcode.com/your-username (placeholder)  
-- HackerRank: https://www.hackerrank.com/your-username (placeholder)  
-- CodeChef: https://www.codechef.com/users/your-username (placeholder)  
-- Codeforces: https://codeforces.com/profile/your-username (placeholder)
+- LeetCode: https://leetcode.com/u/Manojkelam/  
+- HackerRank: https://www.hackerrank.com/profile/manojkelam45
 
 ---
 
 ## 📫 Connect With Me
 <p>
   <a href="https://github.com/Manojkelam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/manoj-kelam-06b777339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="manojkelam45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://manoj-kelam-portfolio-567297922005.asia-southeast1.run.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
