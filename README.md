@@ -26,7 +26,7 @@ Interests:
 ---
 
 ## 💼 Professional Headline
-- 2nd Year CSE (Data Science) Student @ BITM Ballari  
+- 3rd Year CSE (Data Science) Student @ BITM Ballari  
 - Aspiring Software Developer | AI & ML Enthusiast  
 - Open to Internship Opportunities
 
